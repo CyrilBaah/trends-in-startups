@@ -1,0 +1,2 @@
+# Trends in startups
+- SQL
